@@ -1,0 +1,8 @@
+a=int(input('enter the a value'))
+b=int(input('enter the b value'))
+c=a+b
+print(c)
+output
+enter the a value9
+enter the b value 18
+27
