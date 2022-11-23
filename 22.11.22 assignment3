@@ -1,0 +1,13 @@
+sno=int(input('enter sno'))
+name=input('enter name')
+gender=input('enter gender')
+address=input('enter address')
+phno=int(input('enter phno'))
+print('sno=',sno,'name=',name,'gender=',gender,'address=',address,'phno=',phno)
+output
+enter sno1
+enter nameNeelima
+enter gendergirl
+enter address37-visakhapatnam
+enter phno   9346796875
+sno= 1 name= Neelima gender= girl address= visakhapatnam phno= 9346796875
