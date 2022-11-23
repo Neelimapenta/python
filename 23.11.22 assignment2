@@ -1,0 +1,10 @@
+a=int(input('enter the a'))
+b=int(input('enter the b'))
+if a==b:
+    print('equal')
+else:
+    print('not equal')
+output
+enter the a10
+enter the b20
+not equal
