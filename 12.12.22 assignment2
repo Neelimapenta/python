@@ -1,0 +1,8 @@
+l=[1,5,8,4,9]
+a=max(l)
+b=min(l)
+print(a)
+print(b)
+output
+9
+1
