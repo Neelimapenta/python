@@ -1,0 +1,16 @@
+n=int(input())
+l=list(map(int,input().split()))
+m=[]
+v=[]
+for i in range(0,n):
+    if l[i]%2==0:
+        m.append(l[i])
+    else:
+        v.append(l[i])
+l=m+v
+for i in range(n):
+    print(l[i],end=' ')
+ output:
+5
+1 2 3 4 5
+2 4 1 3 5 
